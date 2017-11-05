@@ -1,0 +1,15 @@
+al202
+al004
+maingate
+comps corridor
+backgate
+lab3
+lab2
+lab1
+canteen
+comps shed
+quad
+hostel
+main building
+hub garden
+ground
